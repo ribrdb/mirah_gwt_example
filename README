@@ -1,0 +1,4 @@
+Update build.xml with the location of your GWT sdk and mirah-complete.jar,
+then run 'ant devmode'.
+
+See http://code.google.com/webtoolkit/gettingstarted.html for more.
